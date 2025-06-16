@@ -1821,14 +1821,14 @@ pyyaml = ">=5.1"
 
 [[package]]
 name = "mkdocs-include-markdown-plugin"
-version = "7.1.4"
+version = "7.1.6"
 description = "Mkdocs Markdown includer plugin."
 optional = false
 python-versions = ">=3.9"
 groups = ["dev"]
 files = [
-    {file = "mkdocs_include_markdown_plugin-7.1.4-py3-none-any.whl", hash = "sha256:9c7046490ef89f7645d10a8b5db9f36ed0d5b8730c8dc55d4ded8e285f6c0baa"},
-    {file = "mkdocs_include_markdown_plugin-7.1.4.tar.gz", hash = "sha256:0aacae5b328b015569f13e55f8aaa35998ece3f9a41dcd5dc105825fc1aa89b0"},
+    {file = "mkdocs_include_markdown_plugin-7.1.6-py3-none-any.whl", hash = "sha256:7975a593514887c18ecb68e11e35c074c5499cfa3e51b18cd16323862e1f7345"},
+    {file = "mkdocs_include_markdown_plugin-7.1.6.tar.gz", hash = "sha256:a0753cb82704c10a287f1e789fc9848f82b6beb8749814b24b03dd9f67816677"},
 ]
 
 [package.dependencies]
@@ -3676,4 +3676,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.9"
-content-hash = "0e99ca1d3502cc8551b1f8a60cd3c92c2b241e1f8f294d7484170e6b1c581e32"
+content-hash = "a1eea0093417397054bf8c7ed982496e98fb90dc04273f6c3eac6316ec93317b"
