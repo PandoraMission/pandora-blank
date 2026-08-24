@@ -4,14 +4,11 @@ This is a "[blank](https://en.wikipedia.org/wiki/Planchet)" repository which can
 
 If you are starting a new Pandora tool from scratch, consider forking this repository and updating it to begin your tool.
 
-## Cloning the Repository
+## Importing the Repository
 
-To get started, fork this repository on GitHub, then clone your fork:
+It is not recommended that you fork this repository, as it will cause Github to continually prompt users to create a PR from the forked repository back into pandora-blank.
 
-```sh
-  git clone https://github.com/pandoramission/pandora-blank.git
-  cd pandora-blank
-```
+Instead, use Github's **Import Repository** feature. Click the + icon in the top right corner, and select Import repository.Paste the URL of pandora-blank into the old repository clone URL box. Give your new repository a new name and change the Owner to "PandoraMission". Click Begin import and wait for GitHub to copy the files and history. You may need to adjust admin permissions to include the relevant team members after the import is complete.
 
 ## Updating the Repository with a New Package Name
 
